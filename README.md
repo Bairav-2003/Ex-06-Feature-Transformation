@@ -19,8 +19,7 @@ Save the data to the file
 # CODE
 ```
 /* 
-Name : Aakash H
-Register Number : 212220040002
+
 **Feature Transformation - Data_to_Transform.csv**
 import numpy as np
 import pandas as pd
